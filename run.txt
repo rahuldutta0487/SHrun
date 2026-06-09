@@ -1,0 +1,8 @@
+for Shine project : h9624629@gmail.com
+R@huldutta2003
+
+for activating venv 
+# Enter venv
+source venv/bin/activate
+
+for data dogs: https://app.datadoghq.eu/monitors/manage?p=1
